@@ -1,0 +1,43 @@
+C:\Users\Ufuk\source\repos\formapp\formapp\bin\Debug\formapp.exe.config
+C:\Users\Ufuk\source\repos\formapp\formapp\bin\Debug\formapp.exe
+C:\Users\Ufuk\source\repos\formapp\formapp\bin\Debug\formapp.pdb
+C:\Users\Ufuk\source\repos\formapp\formapp\obj\Debug\formapp.csproj.AssemblyReference.cache
+C:\Users\Ufuk\source\repos\formapp\formapp\obj\Debug\formapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ufuk\source\repos\formapp\formapp\obj\Debug\formapp.Form1.resources
+C:\Users\Ufuk\source\repos\formapp\formapp\obj\Debug\formapp.Properties.Resources.resources
+C:\Users\Ufuk\source\repos\formapp\formapp\obj\Debug\formapp.csproj.GenerateResource.cache
+C:\Users\Ufuk\source\repos\formapp\formapp\obj\Debug\formapp.csproj.CoreCompileInputs.cache
+C:\Users\Ufuk\source\repos\formapp\formapp\obj\Debug\formapp.exe
+C:\Users\Ufuk\source\repos\formapp\formapp\obj\Debug\formapp.pdb
+C:\Users\acer\Desktop\savage form\formapp\formapp\bin\Debug\formapp.exe.config
+C:\Users\acer\Desktop\savage form\formapp\formapp\bin\Debug\formapp.exe
+C:\Users\acer\Desktop\savage form\formapp\formapp\bin\Debug\formapp.pdb
+C:\Users\acer\Desktop\savage form\formapp\formapp\obj\Debug\formapp.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\savage form\formapp\formapp\obj\Debug\formapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Desktop\savage form\formapp\formapp\obj\Debug\formapp.Form1.resources
+C:\Users\acer\Desktop\savage form\formapp\formapp\obj\Debug\formapp.Properties.Resources.resources
+C:\Users\acer\Desktop\savage form\formapp\formapp\obj\Debug\formapp.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\savage form\formapp\formapp\obj\Debug\formapp.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\savage form\formapp\formapp\obj\Debug\formapp.exe
+C:\Users\acer\Desktop\savage form\formapp\formapp\obj\Debug\formapp.pdb
+C:\Users\acer\Desktop\savage form\formapp\formapp\bin\Debug\Interop.WMPLib.dll
+C:\Users\acer\Desktop\savage form\formapp\formapp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\acer\Desktop\savage form\formapp\formapp\obj\Debug\Interop.WMPLib.dll
+C:\Users\acer\Desktop\savage form\formapp\formapp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\acer\Desktop\savage form\formapp\formapp\obj\Debug\formapp.csproj.ResolveComReference.cache
+C:\Users\Acer\Desktop\Cinema c# Remake - Kopya\Grup Sinema\formapp\bin\Debug\formapp.exe.config
+C:\Users\Acer\Desktop\Cinema c# Remake - Kopya\Grup Sinema\formapp\bin\Debug\formapp.exe
+C:\Users\Acer\Desktop\Cinema c# Remake - Kopya\Grup Sinema\formapp\bin\Debug\formapp.pdb
+C:\Users\Acer\Desktop\Cinema c# Remake - Kopya\Grup Sinema\formapp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Acer\Desktop\Cinema c# Remake - Kopya\Grup Sinema\formapp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Acer\Desktop\Cinema c# Remake - Kopya\Grup Sinema\formapp\obj\Debug\formapp.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Cinema c# Remake - Kopya\Grup Sinema\formapp\obj\Debug\formapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\Cinema c# Remake - Kopya\Grup Sinema\formapp\obj\Debug\Interop.WMPLib.dll
+C:\Users\Acer\Desktop\Cinema c# Remake - Kopya\Grup Sinema\formapp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Acer\Desktop\Cinema c# Remake - Kopya\Grup Sinema\formapp\obj\Debug\formapp.csproj.ResolveComReference.cache
+C:\Users\Acer\Desktop\Cinema c# Remake - Kopya\Grup Sinema\formapp\obj\Debug\formapp.Form1.resources
+C:\Users\Acer\Desktop\Cinema c# Remake - Kopya\Grup Sinema\formapp\obj\Debug\formapp.Properties.Resources.resources
+C:\Users\Acer\Desktop\Cinema c# Remake - Kopya\Grup Sinema\formapp\obj\Debug\formapp.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Cinema c# Remake - Kopya\Grup Sinema\formapp\obj\Debug\formapp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Cinema c# Remake - Kopya\Grup Sinema\formapp\obj\Debug\formapp.exe
+C:\Users\Acer\Desktop\Cinema c# Remake - Kopya\Grup Sinema\formapp\obj\Debug\formapp.pdb
